@@ -3,7 +3,7 @@
     {
       "name": "Google Chrome",
       "id": "chrome",
-      "url": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D/chrome/install/ChromeSetup.exe",
+      "url": "https://dl.google.com/chrome/install/375.126/chrome_installer.exe",
       "args": "/silent /install"
     }
   ]
