@@ -5,6 +5,12 @@
       "id": "chrome",
       "url": "https://dl.google.com/chrome/install/375.126/chrome_installer.exe",
       "args": "/silent /install"
+    },
+    {
+      "name": "Bandizip (반디집)",
+      "id": "bandizip",
+      "url": "https://www.bandisoft.com/bandizip/dl.php?std-all",
+      "args": "/S"
     }
   ]
 }
