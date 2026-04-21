@@ -23,6 +23,13 @@
   "id": "mobaxterm",
   "url": "https://download.mobatek.net/2632026040882303/MobaXterm_Installer_v26.3.zip",
   "args": "/qn /norestart"
+  },
+  {
+  "name": "면지의 짱멋있는 RawData 자동 캡처 프로그램",
+  "id": "capture_auto",
+  "url": "https://drive.google.com/uc?export=download&id=1ynEYG-G26NXpnb8-jvNs8ohOCWvPcv0T&confirm=t",
+  "args": ""
 }
+    
   ]
 }
