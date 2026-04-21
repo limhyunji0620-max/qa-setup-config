@@ -11,6 +11,12 @@
       "id": "bandizip",
       "url": "https://www.bandisoft.com/bandizip/dl.php?std-all",
       "args": "/S"
+    },
+    {
+      "name": "PicPick (픽픽)",
+      "id": "picpick",
+      "url": "https://www.picpick.org/picpick_inst.exe",
+      "args": "/S"
     }
   ]
 }
