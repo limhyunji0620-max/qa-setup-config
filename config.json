@@ -17,6 +17,12 @@
       "id": "picpick",
       "url": "https://download.picpick.app/7.4.1/picpick_inst_kr.exe",
       "args": "/S"
-    }
+    },
+    {
+  "name": "MobaXterm",
+  "id": "mobaxterm",
+  "url": "https://download.mobatek.net/2632026040882303/MobaXterm_Installer_v26.3.zip",
+  "args": "/qn /norestart"
+}
   ]
 }
