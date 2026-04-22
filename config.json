@@ -29,6 +29,12 @@
   "id": "capture_auto",
   "url": "https://dl.dropboxusercontent.com/scl/fi/fiqfwp7mp7uwiunuyyy5j/RawdataCaptureAutomation-v1.0.zip?rlkey=se71q6spt0exkvuxlrrrpv134&dl=1",
   "args": ""
+},
+  {
+  "name": "MS Office 2024",
+  "id": "ms_office",
+  "url": "Office2024 Pro.iso", 
+  "args": ""
 }
     
   ]
