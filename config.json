@@ -33,7 +33,7 @@
   {
   "name": "MS Office 2024",
   "id": "ms_office",
-  "url": "Office2024 Pro.iso", 
+  "url": "https://download.microsoft.com/download/6c1eeb25-cf8b-41d9-8d0d-cc1dbc032140/officedeploymenttool_19929-20062.exe", 
   "args": ""
 }
     
