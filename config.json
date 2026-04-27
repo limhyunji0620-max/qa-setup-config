@@ -19,6 +19,12 @@
       "args": "/S"
     },
     {
+      "name": "WireShark (와이어샤크)",
+      "id": "wireshark",
+      "url" : "https://2.na.dl.wireshark.org/win64/Wireshark-4.6.4-x64.exe?_gl=1*fhzqms*_ga*NTYwMjI0MTQ0LjE3NzcyNzU2MTU.*_ga_YLHRKD6LH6*czE3NzcyNzU2MTQkbzEkZzAkdDE3NzcyNzU2MTQkajYwJGwwJGgw",
+      "args": "/S"
+    },
+    {
   "name": "MobaXterm",
   "id": "mobaxterm",
   "url": "https://download.mobatek.net/2632026040882303/MobaXterm_Installer_v26.3.zip",
